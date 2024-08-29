@@ -11,8 +11,8 @@ Web App: To provide a user-friendly experience, we created a local web app where
 This is a Group Effort under the Guidance of Prof. Sudipta Chakrabarty faculty Department of CSE-AIML and CSE-DS, Techno Main Salt Lake
 The Student Contributions in the project are by:-
 
-    Debanjan Bhattacharjee - https://github.com/collegecoder25
-    Abhiraj Bannerjee - https://github.com/Wriki-tmsl
-    Aishee Dutta - https://github.com/Aishee23
-    Shreya Paul - https://github.com/Shreyaa5
-    Urnisha Sarkar - https://github.com/Urnisha2002
+1. Debanjan Bhattacharjee - https://github.com/collegecoder25
+2. Abhiraj Bannerjee - https://github.com/Wriki-tmsl
+3. Aishee Dutta - https://github.com/Aishee23
+4. Shreya Paul - https://github.com/Shreyaa5
+5. Urnisha Sarkar - https://github.com/Urnisha2002
